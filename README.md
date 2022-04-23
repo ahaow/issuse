@@ -11,3 +11,5 @@
 [手写系列-bind实现](https://github.com/ahaow/issuse/issues/8)
 
 [手写系列-cloneDeep深拷贝](https://github.com/ahaow/issuse/issues/9)
+
+[手写系列-函数柯里化](https://github.com/ahaow/issuse/issues/9)
