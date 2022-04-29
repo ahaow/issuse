@@ -15,7 +15,7 @@
 [手写系列-函数柯里化](https://github.com/ahaow/issuse/issues/9)
 
 
-## 手写系列(业务) 😏
+## 手写系列(业务) 👀
 
 [手写系列-获取URL参数](https://github.com/ahaow/issuse/issues/10)
 
