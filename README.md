@@ -14,6 +14,8 @@
 
 [手写系列-函数柯里化](https://github.com/ahaow/issuse/issues/12)
 
+[手写系列-EventBus](https://github.com/ahaow/issuse/issues/14)
+
 
 ## 手写系列(业务) 👀
 
